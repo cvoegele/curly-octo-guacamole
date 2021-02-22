@@ -1,0 +1,2 @@
+"# curly-octo-guacamole"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:cvoegele/curly-octo-guacamole.gitgit push -u origin main
+"# curly-octo-guacamole"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:cvoegele/curly-octo-guacamole.gitgit push -u origin main
